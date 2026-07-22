@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "Your Portfolio",
-  title: "Someone's Portfolio",
+  name: "Ziel",
+  title: "Zielzone",
   description: "A showcase of my work and thoughts",
   social: {
     github: "https://github.com/tomcomtang/astro-multiplepage-portfolio",
@@ -10,9 +10,9 @@ export const siteConfig = {
 };
 
 export const homeContent = {
-  title: "Hello, I'm Your Name",
+  title: "Hello, I'm Zieru",
   description:
-    "A passionate frontend developer with a keen eye for design and a love for creating beautiful, functional web experiences.",
+    "Exploring ideas through code, visuals, and words.",
   buttons: {
     about: {
       text: "View About",
@@ -36,7 +36,7 @@ export const aboutContent = {
   },
   title: "About Me",
   description:
-    "This is where you can introduce yourself or your company. Share your story, mission, and values. Explain what makes you unique and why people should be interested in your work. Keep it concise but engaging.",
+    "I build things to understand ideas. Through code, visuals, and words. This space collects projects, experiments, and notes that reflect how I think and work. I focus on building systems that are functional, clear, and grounded in real use. Currently exploring web development, visual design, and writing as one continuous practice.",
   skills: [
     "Next.js",
     "React",
@@ -48,31 +48,32 @@ export const aboutContent = {
     "AWS",
   ],
   image: {
-    src: "/assets/images/about/coder.jpg",
+    src: "/assets/images/about/Wolf_ava.png",
     alt: "Profile",
   },
   experience: {
     title: "Experience",
     items: [
       {
-        period: "2022 - Present",
-        position: "Senior Frontend Developer",
-        company: "Tencent Cloud",
+        period: "2022 - 2024",
+        position: "Head of IT Student Community (RIT)",
+        company: "University",
         description:
-          "Leading frontend development for EdgeOne platform and templates.",
+          "Led and coordinated technology-based student initiatives, managed and facilitated collaborative projects or events across members.",
       },
       {
-        period: "2020 - 2022",
-        position: "Frontend Developer",
-        company: "Tencent Cloud",
+        period: "2025",
+        position: "IT Support Intern",
+        company: "Pertamina Geothermal Energy",
         description:
-          "Developed and maintained multiple web applications and tools.",
+          "Provided technical support, assisted system maintenance, and documented operational processes.",
       },
       {
-        period: "2018 - 2020",
-        position: "Junior Developer",
-        company: "Tencent Cloud",
-        description: "Worked on various client projects and internal tools.",
+        period: "2024 - Present",
+        position: "System & Web Development Projects",
+        company: "Independent Projects",
+        description:
+          "Designed business flows, built web applications using Laravel, and practiced project management using Agile methodologies with jira.",
       },
     ],
   },
@@ -82,7 +83,7 @@ export const aboutContent = {
       "Feel free to reach out if you want to collaborate or just say hi! You can find us on social media or drop us an",
     email: {
       text: "email",
-      href: "mailto:364786053@qq.com",
+      href: "azrielnoer28@gmail.com",
     },
   },
 };
