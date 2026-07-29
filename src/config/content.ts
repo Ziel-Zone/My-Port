@@ -3,9 +3,9 @@ export const siteConfig = {
   title: "Zielzone",
   description: "A showcase of my work and thoughts",
   social: {
-    github: "https://github.com/tomcomtang/astro-multiplepage-portfolio",
+    github: "https://github.com/ziel-zone/",
     twitter: "https://x.com/astrodotbuild",
-    email: "mailto:364786053@qq.com",
+    email: "mailto:azrielnoer28@gmail.com",
   },
 };
 
@@ -98,25 +98,23 @@ export const projectsContent = {
     "Here you can showcase your best work. Each project should include a brief description, the technologies used, and any notable achievements. This helps potential clients or employers understand your capabilities.",
   projects: [
     {
-      title: "Project One",
+      title: "Kolase Photobooth Project",
       description:
-        "A brief description of your first project. Explain what it does and what technologies you used.",
+        "Kolase Photobooth merupakan bisnis photobooth dengan beberapa outlet permanen dan event-based yang masih bergantung pada software pihak ketiga dengan biaya berlangganan rutin. Project ini bertujuan untuk merancang sistem internal yang mampu mendukung operasional photobooth secara lebih efisien dan scalable.",
       image: "/assets/images/projects/project1.jpg",
-      href: "#",
+      href: "/posts/Project Kolase/",
     },
     {
-      title: "Project Two",
-      description:
-        "Describe your second project here. Highlight the key features and your role in development.",
-      image: "/assets/images/projects/project2.jpg",
-      href: "#",
+      title: "Republic Information Technology (RIT)",
+      description: "Founder & Community Lead yang memimpin ekosistem kolaborasi teknologi mahasiswa lintas divisi.",
+      image: "/assets/images/projects/Logo BG.png", // Ganti dengan path gambar/logo RIT kamu
+      href: "/posts/RIT project/", // Path slug ke file markdown-nya
     },
     {
-      title: "Project Three",
-      description:
-        "Share details about your third project. What problems did it solve? What was the outcome?",
-      image: "/assets/images/projects/project3.png",
-      href: "#",
+      title: "RIT Showcase 2025",
+      description: "Inisiator & Project Lead pameran teknologi mahasiswa yang menampilkan 5 proyek lintas divisi (IoT, AI, Web, Game).",
+      image: "/assets/images/projects/project3.png", // Ganti dengan gambar thumbnail pameran/acara
+      href: "/posts/RIT Showcase/", // Path slug mengarah ke file markdown-nya
     },
   ],
 };

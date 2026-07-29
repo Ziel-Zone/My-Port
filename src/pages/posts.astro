@@ -3,11 +3,19 @@ import Navigation from "../components/Navigation.astro";
 import Footer from "../components/Footer.astro";
 import { getAllPosts } from "../utils/getPosts";
 
-const POSTS_PER_PAGE = 5;
+const POSTS_PER_PAGE = 1;
 
+// 1. Ambil semua post
 const allPosts = getAllPosts();
 
-const postsData = JSON.stringify(allPosts);
+// 2. Filter dengan Type Casting (any) supaya TypeScript tidak protes "property does not exist"
+const visiblePosts = allPosts.filter((post: any) => {
+  const isHidden = post.hidden ?? post.frontmatter?.hidden ?? false;
+  return !isHidden;
+});
+
+// 3. Masukkan hasil filter ke postsData
+const postsData = JSON.stringify(visiblePosts);
 ---
 
 <html lang="en">

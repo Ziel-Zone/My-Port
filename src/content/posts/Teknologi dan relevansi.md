@@ -1,103 +1,104 @@
 ---
-title: "Di Celah antara Teknologi dan Kebutuhan Nyata"
-description: "Refleksi tentang arah perkembangan teknologi dan realitas kebutuhan operasional di masyarakat"
-date: "2026-02-18"
-readTime: "7 min read"
-slug: "celah-teknologi-dan-kebutuhan-nyata"
+title: "Tidak buruk juga menjadi yang pertama mencoba"
+description: "Tentang keberanian memulai sesuatu yang belum pernah dicoba siapapun."
+date: "2024-05-16"
+readTime: "6 min read"
+hidden: false
 ---
 
-# Di Celah antara Teknologi dan Kebutuhan Nyata
+# Menjawab pertanyaan
 
-## Ambisi yang Bergerak Cepat
+Ada satu hal yang selalu mengganggu saya selama kuliah.
 
-Ekosistem teknologi Indonesia terus mempercepat perkembangannya.  
-Diskusi tentang AI, automasi, dan machine learning semakin sering diangkat di kampus, komunitas IT, dan startup. Ada nuansa ambisi untuk mengejar teknologi global dan melampaui batas kemampuan kita.
+Bukan soal nilai.
 
-Dan ambisi itu sama sekali tidak salah.
+Bukan soal tugas.
 
-Namun dari dinamika ini, saya menyadari ada sesuatu yang sering luput dari perhatian.
+Bukan juga soal kemampuan teknis.
 
-Ketika kita sibuk berdiskusi bagaimana cara tercepat melampaui batasan teknologi kita, banyak UMKM dan usaha masyarakat yang masih jauh dari teknologi untuk meningkatkan level mereka.
+Tetapi sebuah pertanyaan sederhana:
 
-Bukan prediksi berbasis AI.  
-Bukan automasi paling efisien.  
-Transaksi sederhana dan pengelolaan operasional saja masih jauh dari kata terdigitalisasi.
+> Kenapa belum ada yang pernah ikut lomba?
 
-Ini bukan kritik. Ini kesadaran.
+Saya berasal dari angkatan pertama Program Studi Teknologi Informasi di Universitas Garut. Sebagai jurusan yang masih baru, banyak hal yang sebenarnya belum memiliki tradisi maupun referensi.
 
----
+Tidak ada senior yang bisa ditanya.
 
-## Pertumbuhan yang Tidak Sejalan
+Tidak ada cerita tentang bagaimana mengikuti kompetisi teknologi.
 
-Teknologi bertumbuh secara vertikal — semakin maju, kompleks, dan canggih.  
-Sementara di masyarakat, pertumbuhan cenderung horizontal — tidak merata, kontekstual, dibatasi literasi digital, kebiasaan kerja, dan realitas operasional di lapangan.
+Tidak ada pengalaman yang bisa dijadikan contoh.
 
-Ketika kebutuhan dan arah pengembangan teknologi tidak berjalan searah, jarak mulai terbentuk.
+Dan semakin saya memikirkannya, semakin saya sadar bahwa masalahnya bukan karena mahasiswa tidak mampu.
 
----
-
-## Kompleksitas yang Tidak Selaras
-
-Saya menyadari ini ketika mendengarkan keluhan seorang pemilik grosir mengenai sistem kasir yang ia gunakan.
-
-Sistem tersebut sebenarnya mumpuni.  
-Penuh fitur.  
-Dirancang untuk memberikan kemudahan secara komprehensif.
-
-Namun dalam praktiknya, pengguna justru merasa kewalahan.
-
-- Terlalu banyak menu  
-- Terlalu banyak konfigurasi  
-- Terlalu banyak pilihan  
-- Terlalu banyak langkah untuk proses yang seharusnya sederhana  
-
-Masalahnya bukan pada kapabilitas sistem.  
-Masalahnya adalah kompleksitas yang tidak selaras dengan konteks penggunaan.
+Mungkin mereka hanya tidak pernah melihat bahwa hal tersebut mungkin dilakukan.
 
 ---
 
-## Pergeseran Cara Pandang
+## Mencari Referensi yang Tidak Ada
 
-Dari perbincangan tersebut, saya mencoba merancang sistem kasir dengan satu prinsip utama: *near zero learning curve*.
+Saat itu saya mulai melihat berbagai kompetisi teknologi tingkat nasional.
 
-Semua dibuat sesederhana mungkin, mengikuti kebutuhan operasional nyata.  
-Dalam konteks grosir, transaksi berlangsung cepat dan berulang. Setiap tambahan langkah berarti tambahan beban kognitif.
+Saya tidak tahu apakah kami cukup siap.
 
-Ketika terjadi pergantian staf, pelatihan menjadi biaya.  
-Ketika antarmuka membingungkan, transaksi melambat.  
-Ketika sistem sulit digunakan, bahkan sistem paling mumpuni sekalipun menjadi tidak efektif.
+Saya tidak tahu apakah kami cukup pintar.
 
-Alih-alih bertanya,  
-“Fitur canggih apa yang bisa ditambahkan?”  
+Saya bahkan tidak tahu bagaimana proses kompetisi sebenarnya berjalan.
 
-Saya mulai bertanya,  
-“Kesulitan apa yang bisa dihilangkan?”
+Tetapi saya berpikir:
 
-Pergeseran cara pandang ini mengubah arah pengembangan produk secara menyeluruh.
+> Jika terus menunggu sampai merasa siap, mungkin tidak akan pernah ada yang memulai.
 
-Tujuannya bukan menciptakan sistem yang unggul secara fitur,  
-melainkan menyesuaikan teknologi dengan realitas operasional.
+Akhirnya saya bersama beberapa rekan memutuskan untuk mencoba.
+
+Bukan karena kami yakin akan menang.
+
+Tetapi karena kami ingin mencoba agar setidaknya apapun hasilnya pengalaman kami bisa menjadi pelajaran bagi kami sendiri maupun angkatan selanjutnya.
 
 ---
 
-## Membumi sebagai Arah
+## Proses yang Lebih Penting dari Hasil
 
-Proyek ini memang hanya satu contoh. Namun ia mencerminkan pola yang lebih luas.
+Akhirnya kami memutuskan mengikuti lomba "National Information Technology Competition" (UNITY) #12 yang diselenggarakan oleh Universitas Negeri Yogyakarta.
 
-Ada segmen signifikan di masyarakat yang tidak membutuhkan teknologi tingkat lanjut, melainkan teknologi yang memahami keterbatasan, kebiasaan, dan ritme kerja mereka.
+Kami menyiapkan karya tulis ilmiah berjudul:
 
-Jika teknologi terus bergerak menuju kompleksitas sementara mayoritas masih membutuhkan kejelasan, risikonya bukan hanya stagnasi — melainkan ketidaksesuaian yang semakin melebar.
+**"Pemanfaatan Profile Matching Untuk Rekomendasi Buah Dalam Perawatan Pasien Rumah Sakit."**
 
-Dan itu lebih berbahaya.
+Untuk pertama kalinya saya merasakan bagaimana sebuah ide harus dipertanggungjawabkan secara akademik.
 
-Karena untuk apa mendorong teknologi ke level yang lebih tinggi jika dampaknya tidak dapat dirasakan oleh mereka yang membutuhkannya?
+Bagaimana mencari literatur.
 
-Bagi saya, kesadaran ini memengaruhi cara saya mendesain produk dan mengelola proyek.
+Bagaimana menyusun argumen.
 
-Teknologi tidak kehilangan nilai ketika menjadi sederhana.  
-Teknologi kehilangan nilai ketika terputus dari konteks.
+Bagaimana menerima kritik terhadap pemikiran sendiri.
 
-Masa depan inovasi bukan hanya tentang bergerak ke atas.  
-Ia juga tentang membumi ke dalam permasalahan nyata di masyarakat.
+Dan bagaimana bekerja dalam tim ketika tidak ada satu orang pun yang benar-benar berpengalaman.
 
-Dan mungkin, potensi sesungguhnya justru berada di sana.
+---
+
+## Apa yang Sebenarnya Kami Cari?
+
+Ketika melihat kembali pengalaman tersebut, saya sadar bahwa tujuan utamanya ternyata bukan lomba.
+
+Tujuan utamanya adalah membuat jejak.
+
+Membuat bukti bahwa mahasiswa Teknologi Informasi Universitas Garut pernah mencoba.
+
+Bahwa jalur itu ada.
+
+Dan mahasiswa setelah kami tidak harus memulai dari titik nol.
+
+---
+
+## Penutup
+
+Saya tidak memenangkan kompetisi tersebut.
+
+Tetapi saya mendapatkan sesuatu yang menurut saya lebih berharga.
+
+Saya belajar bahwa keberanian untuk memulai sering kali memiliki dampak yang lebih panjang daripada hasil yang didapatkan pada hari itu.
+
+Karena terkadang, kontribusi terbesar bukanlah menjadi yang terbaik.
+
+Melainkan menjadi referensi pertama bagi orang yang datang setelah kita.
+
