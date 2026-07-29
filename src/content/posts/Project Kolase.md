@@ -130,3 +130,11 @@ Blueprint ini membantu stakeholder memahami kebutuhan sistem secara terstruktur 
 ## Key Learnings
 
 Melalui project ini saya belajar bagaimana menerjemahkan kebutuhan bisnis menjadi spesifikasi yang dapat dipahami tim teknis, sekaligus menjaga keselarasan antara tujuan operasional dan solusi teknologi yang dikembangkan.
+
+## Project Status
+
+**Status:** Ongoing Development
+
+Project ini masih berada dalam tahap pengembangan dan kolaborasi aktif bersama stakeholder. Blueprint sistem yang telah disusun digunakan sebagai dasar pengambilan keputusan pengembangan produk serta menjadi referensi implementasi bagi tim pengembang.
+
+Seiring berkembangnya kebutuhan bisnis, requirement dan prioritas fitur terus dievaluasi untuk memastikan sistem mampu mendukung operasional multi-outlet dan kebutuhan ekspansi di masa mendatang.
