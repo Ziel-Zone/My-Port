@@ -70,10 +70,10 @@ export const aboutContent = {
       },
       {
         period: "2024 - Present",
-        position: "System & Web Development Projects",
+        position: "Project Lead & Business Analyst",
         company: "Independent Projects",
         description:
-          "Designed business flows, built web applications using Laravel, and practiced project management using Agile methodologies with jira.",
+          "Initiated and coordinated technology projects by translating business needs into structured solutions. Managed project planning, stakeholder communication, requirement analysis, documentation, and collaboration with multidisciplinary teams to support successful project execution.",
       },
     ],
   },
